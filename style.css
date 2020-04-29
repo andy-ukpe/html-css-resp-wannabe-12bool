@@ -321,6 +321,9 @@ and (max-width: 992px){
   #why .row img{
     height: 150px;
   }
+  hr{
+    display: none;
+  }
 }
 /*media query large screen*/
 @media all and (min-width:992px){
